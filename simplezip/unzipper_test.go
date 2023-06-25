@@ -3,7 +3,7 @@ package simplezip
 import (
 	"testing"
 
-	"github.com/rhcourses/tries/tries"
+	"github.com/tel22a-inf/tries/tries"
 )
 
 // TestUnzipper_New_nonempty_done tests the NewUnzipper function.

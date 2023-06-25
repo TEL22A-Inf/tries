@@ -3,7 +3,7 @@ package simplezip
 import (
 	"fmt"
 
-	"github.com/rhcourses/tries/tries"
+	"github.com/tel22a-inf/tries/tries"
 )
 
 // Unzipper is a data structure that stores a compressed string and everything that is

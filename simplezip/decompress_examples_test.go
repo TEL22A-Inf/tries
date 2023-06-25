@@ -3,7 +3,7 @@ package simplezip
 import (
 	"fmt"
 
-	"github.com/rhcourses/tries/tries"
+	"github.com/tel22a-inf/tries/tries"
 )
 
 // ExampleDecompress_flat shows how to decompress a string using a "flat" dictionary.
